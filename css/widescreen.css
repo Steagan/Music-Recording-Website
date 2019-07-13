@@ -1,0 +1,23 @@
+#what .items {
+    align-self: center;
+}
+
+#what .items .item {
+    display: flex;
+    text-align: left;
+}
+
+#what .items .item i {
+    align-self: center;
+    margin-right: 1.2rem;
+}
+
+#what .items .item h3 {
+    margin-top: 3rem;
+    margin-left: 0.8rem;
+}
+
+#contact .map {
+    flex:2;
+}
+
